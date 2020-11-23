@@ -5,5 +5,7 @@ Every year around the holiday season, Dominique and Simone's friends eagerly loo
 Each of their friends is going to be presenting a home-cooked dish or group of dishes from their holiday traditions and culture that's meaningful to them. Each week, you can log on to the Seasons of Serverless site to solve another unique code challenge presented by one of Dominique and Simone's friends and focused on a culinary tradition from around the world.
 
 ## Challenge 1: The Perfect Turkey 🦃 
+| Challenge | Technology Used | Link |
+| :-: | :-: | :-: |
+| [Challenge 1: The Perfect Turkey](https://github.com/microsoft/seasons-of-serverless) | Azure Functions - PowerShell | [Submission](https://github.com/brettmillerb/seasons-of-serverless/tree/challenge1) |
 
-[Azure Functions Entry](https://github.com/brettmillerb/seasonsOfServerless/tree/challenge1)
